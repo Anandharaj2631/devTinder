@@ -1,0 +1,21 @@
+{
+  "name": "devtinder",
+  "version": "1.0.0",
+  "description": "devTinder",
+  "keywords": [
+    "First",
+    "devTinder"
+  ],
+  "license": "ISC",
+  "author": "Anand",
+  "type": "javascript, nodejs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "dev": "nodemon src/app.js"
+  },
+  "dependencies": {
+    "express": "^5.3.0",
+    "mongoose": "^9.12.1"
+  }
+}
