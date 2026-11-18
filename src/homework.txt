@@ -1,0 +1,2 @@
+- Add the express.json middleware to your app
+- Make the Dynamic data json send from signup from using postman
