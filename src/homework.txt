@@ -1,2 +1,3 @@
 - Add the express.json middleware to your app
 - Make the Dynamic data json send from signup from using postman
+- Get user by API and fine one record from DB eg: user.find & user.findOne
